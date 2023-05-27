@@ -12,5 +12,6 @@ Aan de top van de piramide bevinden zich de end-to-end (E2E) of acceptatietests,
 
 De testpiramide is een nuttige richtlijn om ervoor te zorgen dat je de juiste balans vindt tussen het aantal tests dat je uitvoert en de snelheid en kostenefficiëntie van die tests. Door meer tests uit te voeren op lagere niveaus van de piramide, kun je problemen sneller opsporen en oplossen voordat ze zich kunnen verspreiden naar hogere niveaus van de applicatie.
 
-- [Integratietesten](https://github.com/praegus/meet-the-testers/tree/main/integratie)
-- [Ui](https://github.com/praegus/meet-the-testers/tree/main/ui)
+- [UI](https://github.com/praegus/meet-the-testers-opdrachten/tree/main/ui)
+- [Integratietesten](https://github.com/praegus/meet-the-testers-opdrachten/tree/main/integratie)
+- [Unit](https://github.com/praegus/meet-the-testers-opdrachten/tree/main/unit)
