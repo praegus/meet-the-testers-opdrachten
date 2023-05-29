@@ -49,6 +49,6 @@ Probeer de onderstaande scenario's te automatiseren. Hou daarbij de cleancode pr
 
 1. Open http://localhost:8123/ en controleer of het Praegus logo zichtbaar is.
 2. Controleer of de landen Belgie, Frankrijk, Spanje aanwezig zijn in de dropdown.
-3. Kies voor campings zonder zwembard en zonder animatie
+3. Kies voor campings zonder zwembad en zonder animatie in Spanje
 4. Klik op zoeken
-5. Controleer of het eerste zoekresultaat Madrid is met als prijs per nacht 23.08.
+5. Controleer of het eerste zoekresultaat Madrid is.
